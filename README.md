@@ -1,4 +1,4 @@
-# Product Service API
+# Product API
 
 Esta é uma API escrita em Golang (versão 1.23). A API foi configurada para ser executada exclusivamente dentro de containers Docker. Com o Docker e Docker Compose configurados, é possível gerar a imagem e subir os containers facilmente.
 
